@@ -31,3 +31,15 @@ python -m venv (your virtual environment)
 ```bash
 pip install -r requirements.txt
 ```
+
+# To Train Your Own Model
+
+### Download the Dataset
+
+1. Download the dataset from the following link: [CT Kidney Dataset](https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone/data).
+
+2. Store the downloaded dataset in your Google Drive.
+
+### Run the Trials
+
+Run the `trials.ipynb` notebook under the `research` folder to download the dataset to your local machine.
