@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: diseaseClassfier
+Version: 0.0.0
+Summary: Python package for CNN model
+Home-page: https://github.com/amitm15/renal-tumor-detection
+Author: amitm15
+Author-email: workamit925@gmail.com
+Project-URL: Bug Tracker, https://github.com/amitm15/renal-tumor-detection/issues
+
 # Renal Tumor Detection 
 
 ## Overview
@@ -7,27 +16,3 @@ Detecting renal tumors early is crucial for effective treatment. This repository
 - **Early Detection:** Leverage machine learning algorithms to identify renal tumors in their early stages.
 - **Accuracy:** Enhance accuracy in distinguishing between benign and cancerous tumors.
 - **User-Friendly Interface:** Develop an intuitive and user-friendly interface for easy integration into healthcare systems.
-
-# How to run?
-### STEPS:
-
-Clone the repository
-
-```bash
-https://github.com/amitm15/renal-tumor-detection
-```
-
-### STEP 01- Create a virtual environment after cloning the repository(Windows)
-
-```bash
-python -m venv (your virtual environment)
-```
-
-```bash
-(your virtual environment)\Scripts\activate
-```
-
-### STEP 02- Install the Requirements
-```bash
-pip install -r requirements.txt
-```
